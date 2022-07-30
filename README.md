@@ -13,6 +13,5 @@ Download the zip folder with the source code file and open the index.html on the
 ## Author
 
 Thiago Petrimperni
-
 Student at MIT - Full Stack Development with MERN
 
