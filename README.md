@@ -1,4 +1,4 @@
-# MIT - Eye Movement Animation
+# MIT - Eye Movement
 
 ## App Information
 
